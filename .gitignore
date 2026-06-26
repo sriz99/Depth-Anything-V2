@@ -1,3 +1,5 @@
 checkpoints
 data
 __pycache__
+vis_depth
+vis_video_depth
