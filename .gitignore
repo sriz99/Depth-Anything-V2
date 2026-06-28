@@ -3,3 +3,5 @@ data
 __pycache__
 vis_depth
 vis_video_depth
+dockerfile_inst.txt
+commands.txt
