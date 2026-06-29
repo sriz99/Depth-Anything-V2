@@ -5,3 +5,4 @@ vis_depth
 vis_video_depth
 dockerfile_inst.txt
 commands.txt
+vis_pointcloud/
