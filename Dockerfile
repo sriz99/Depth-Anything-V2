@@ -49,11 +49,7 @@ RUN pip3 install --no-cache-dir \
     open3d \  
     transformers \  
     huggingface-hub  
-<<<<<<< HEAD
-    
-=======
-  
->>>>>>> 7cd5858 (update files)
+
 # Create checkpoints directory  
 RUN mkdir -p checkpoints  
   
